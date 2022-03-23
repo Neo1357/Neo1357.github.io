@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: QuantsPool
-email: wutiecheng135@gmail.com
+title: Neo Analytics
+email: 987288835@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A non pro quants' learning, reading, and sharing
+  Just do it since already late
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: sven135
+twitter_username: 
 github_username:  Neo1357
 
 # Build settings
