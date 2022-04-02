@@ -11,7 +11,7 @@ Unlike other web service users(e-commerce, O2O), game player is not just finish 
 
 # game data analysis procedures
 
-![game data analysis procedures](https://github.com/Neo1357/Neo1357.github.io/blob/main/_images/game%20data%20analysis%20procudure.png)
+![game data analysis procedures](https://github.com/Neo1357/Neo1357.github.io/blob/main/_images/game_data_analysis_procudure.png)
 
 # what game data analyst doing?
 
