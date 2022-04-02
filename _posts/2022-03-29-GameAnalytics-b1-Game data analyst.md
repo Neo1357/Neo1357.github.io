@@ -9,11 +9,11 @@ Unlike other web service users(e-commerce, O2O), game player is not just finish 
 
 
 
-game data analysis procedures
+# game data analysis procedures
 
+![game data analysis procedures](https://github.com/Neo1357/Neo1357.github.io/blob/main/_images/game%20data%20analysis%20procudure.png)
 
-
-what game data analyst doing?
+# what game data analyst doing?
 
 based on the game data analysis procudures , a game data analyst work mainly involving following parts:
 
@@ -25,22 +25,22 @@ based on the game data analysis procudures , a game data analyst work mainly inv
 * Induction: Summarize you analytics to a model, to module and API. you should always focus on, which will highly alleviate your work load. 
 * Plan&Exection: Keep in mind: analysis and its results basically has no value. The real value is how to use the results and execute to the business. 
 
-How to do better
+# How to do better
 
 As a game data analyst, besides the basic work you are doing above, what you shold learn or get doing to do it better?
 
-Know your game&user
+## Know your game&user
 
 Treat yourself as a game player, a real user. Only you understand the game itself, and the user, why they play and how their experience is, that you can start analysis. 
 
-Think as a game desinger
+## Think as a game desinger
 
 This is important after you finished you analytics, and start propose a plan. Think as a game desinger gives you the ability to know where could be improved, and how to imporve.
 
-Learn more
+## Learn more
 
 As an analyst, knowing analysis skills and your game will make you good. While, knowing products, user experience, advertising, ecnomics, marketing etc will make you great.
 
-A step further
+# A step further
 
 As data science evolving in game industry, more techniques being or will be used, such as data mining, machine learning or deep learning in game industry. These advanced techniques will give you more space. Such things has already widely used in Internet companies, like search, recommendation etc.  I think, these techniques will bloom in the next decade in game industry.
